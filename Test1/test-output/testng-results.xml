@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18155" started-at="2019-09-18T08:25:38Z" finished-at="2019-09-18T08:25:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18155" started-at="2019-09-18T08:25:38Z" finished-at="2019-09-18T08:25:56Z">
+      <class name="Ravi.Testsdf">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Ravi.Testsdf@5c7fa833]" name="launchBrowser" is-config="true" duration-ms="6707" started-at="2019-09-18T13:55:38Z" finished-at="2019-09-18T13:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Ravi.Ttest@4520ebad]" name="launchBrowser" is-config="true" duration-ms="5692" started-at="2019-09-18T13:55:44Z" finished-at="2019-09-18T13:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="register()[pri:0, instance:Ravi.Testsdf@5c7fa833]" name="register" duration-ms="5420" started-at="2019-09-18T13:55:50Z" finished-at="2019-09-18T13:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Ravi.Testsdf@5c7fa833]" name="afterTest" is-config="true" duration-ms="110" started-at="2019-09-18T13:55:55Z" finished-at="2019-09-18T13:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Ravi.Ttest@4520ebad]" name="afterTest" is-config="true" duration-ms="193" started-at="2019-09-18T13:55:56Z" finished-at="2019-09-18T13:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Ravi.Testsdf -->
+      <class name="Ravi.Ttest">
+        <test-method status="PASS" signature="register()[pri:0, instance:Ravi.Ttest@4520ebad]" name="register" duration-ms="5411" started-at="2019-09-18T13:55:50Z" finished-at="2019-09-18T13:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- Ravi.Ttest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
